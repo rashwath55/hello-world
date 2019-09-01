@@ -1,4 +1,4 @@
-# Welcome to GitHub
+﻿# Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
@@ -127,7 +127,7 @@ Once you commit your changes, they are automatically published on your GitHub Pa
 
 Hooray! Now you have your repository linked between your computer and GitHub.com. In the future, you can use GitHub Desktop to push any changes you decide to make from your computer.
 
-## Extra Credit: Keep on building!
+## Extra Credit: xvgdgfbg
 
 Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
 
